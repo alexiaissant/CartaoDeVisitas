@@ -70,7 +70,7 @@ fun telaCartãoVisita() {
                 lineHeight = 100.sp
             )
             Destinatario(text = "From: Alex and Victin")
-            Destinatario(text = "To: All our Friends!")
+            Destinatario(text = "To: All our Friends! ")
 
         }
 
