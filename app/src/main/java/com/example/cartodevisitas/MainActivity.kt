@@ -50,7 +50,7 @@ fun telaCartãoVisita() {
             contentDescription = "verde",
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize(),
-            alpha = 0.5F,
+            alpha = 0.7F,
         )
         Column(
             modifier = Modifier.fillMaxSize(),
